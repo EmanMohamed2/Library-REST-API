@@ -1,0 +1,17 @@
+C:\Users\Eman Mohamed\Documents\Backend\Rep\Libarary\library.EF\bin\Debug\net6.0\library.EF.deps.json
+C:\Users\Eman Mohamed\Documents\Backend\Rep\Libarary\library.EF\bin\Debug\net6.0\library.EF.runtimeconfig.json
+C:\Users\Eman Mohamed\Documents\Backend\Rep\Libarary\library.EF\bin\Debug\net6.0\library.EF.dll
+C:\Users\Eman Mohamed\Documents\Backend\Rep\Libarary\library.EF\bin\Debug\net6.0\library.EF.pdb
+C:\Users\Eman Mohamed\Documents\Backend\Rep\Libarary\library.EF\bin\Debug\net6.0\Library.Core.dll
+C:\Users\Eman Mohamed\Documents\Backend\Rep\Libarary\library.EF\bin\Debug\net6.0\Library.Core.pdb
+C:\Users\Eman Mohamed\Documents\Backend\Rep\Libarary\library.EF\obj\Debug\net6.0\library.EF.csproj.AssemblyReference.cache
+C:\Users\Eman Mohamed\Documents\Backend\Rep\Libarary\library.EF\obj\Debug\net6.0\library.EF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eman Mohamed\Documents\Backend\Rep\Libarary\library.EF\obj\Debug\net6.0\library.EF.AssemblyInfoInputs.cache
+C:\Users\Eman Mohamed\Documents\Backend\Rep\Libarary\library.EF\obj\Debug\net6.0\library.EF.AssemblyInfo.cs
+C:\Users\Eman Mohamed\Documents\Backend\Rep\Libarary\library.EF\obj\Debug\net6.0\library.EF.csproj.CoreCompileInputs.cache
+C:\Users\Eman Mohamed\Documents\Backend\Rep\Libarary\library.EF\obj\Debug\net6.0\library.EF.csproj.CopyComplete
+C:\Users\Eman Mohamed\Documents\Backend\Rep\Libarary\library.EF\obj\Debug\net6.0\library.EF.dll
+C:\Users\Eman Mohamed\Documents\Backend\Rep\Libarary\library.EF\obj\Debug\net6.0\refint\library.EF.dll
+C:\Users\Eman Mohamed\Documents\Backend\Rep\Libarary\library.EF\obj\Debug\net6.0\library.EF.pdb
+C:\Users\Eman Mohamed\Documents\Backend\Rep\Libarary\library.EF\obj\Debug\net6.0\library.EF.genruntimeconfig.cache
+C:\Users\Eman Mohamed\Documents\Backend\Rep\Libarary\library.EF\obj\Debug\net6.0\ref\library.EF.dll
